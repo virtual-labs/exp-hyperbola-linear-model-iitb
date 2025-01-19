@@ -1,0 +1,29 @@
+[
+   {
+      "question": "For the equation  y=a+bx, the error term is given as:",
+      "qid": 1,
+      "option_a": "<span style='display:inline-block;'>$$ e_i = y_i -(a + bx_i) $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ e_i = y_i - x_i $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ e_i = y_i - a + bx_i $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ e_i = x_i - (a +  bx_i) $$</span>",
+      "correct_option": "a"
+   },
+   {
+      "question": "While using the least square estimation method for bivariate data, we get ____ no. od normal equations:",
+      "qid": 2,
+      "option_a": "03",
+      "option_b": "02",
+      "option_c": "04",
+      "option_d": "01",
+      "correct_option": "b"
+   },
+   {
+      "question": "The total least square method:",
+      "qid": 2,
+      "option_a": "minimizes the error in the horizontal direction",
+      "option_b": "minimizes the error in the vertical direction",
+      "option_c": "minimizes the error in both the direction",
+      "option_d": "",
+      "correct_option": "c"
+   }
+]

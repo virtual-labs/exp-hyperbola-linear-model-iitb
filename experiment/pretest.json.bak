@@ -1,0 +1,29 @@
+[
+   {
+      "question": "Rectangular hyperbola is a hyperbola in which:",
+      "qid": 1,
+      "option_a": "the lengths of transverse axis and conjugate axis are equal",
+      "option_b": "length of transverse axis &gt; length of conjugate axis",
+      "option_c": "length of transverse axis &lt; length of conjugate axis",
+      "option_d": "",
+      "correct_option": "a"
+   },
+   {
+      "question": "The hyhperbola function has the general form:",
+      "qid": 2,
+      "option_a": "<span style='display:inline-block;'>$$ y = a + bx + c $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ y = \\frac{a}{x-h} + k $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ y = \\frac{x}{a+h} + k $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ y = \\frac{x}{h+k} - a $$</span>",
+      "correct_option": "b"
+   },
+   {
+      "question": "Standard equation of the rectangular hyperbola is:",
+      "qid": 3,
+      "option_a": "<span style='display:inline-block;'>$$ x^2 + y^2 = a^2 $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ x^2 + 2y^2 = a^2 $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ x^2 - y^2 = a^2 $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ 2x + \\frac{y}{2} = \\frac{a}{2} $$</span>",
+      "correct_option": "c"
+   }
+]
